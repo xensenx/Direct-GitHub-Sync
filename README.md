@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> This is a  archived legacy project and is no longer maintained, Use latest plugin called [Secure-Smart-Sync](https://github.com/Secure-Smart-Sync/Secure-Smart-Sync) for advance obsidian sync methods, you can still use the following plugin if syncing your vault with github pat key is your goal. 
+
+
+
 # Direct GitHub Sync
 
 <p align="left">
